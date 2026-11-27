@@ -1,2 +1,2 @@
-:HL["/golf-lac-poulin-demo/_next/static/chunks/0saq_7-mms8ln.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"piV9a6DW1DCpjgYt99iot"}
+:HL["/golf-lac-poulin-demo/_next/static/chunks/1spsb737hqlcj.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"A_kkRruPyGKQRbQBeWckt"}
